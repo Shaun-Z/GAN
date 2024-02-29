@@ -1,0 +1,21 @@
+----------------- Options ---------------
+                       b1: 0.5                           
+                       b2: 0.999                         
+               batch_size: 64                            
+                 channels: 1                             
+          checkpoints_dir: ./checkpoints                 
+                 dataroot: None                          
+                  gpu_ids: 0                             
+                 img_size: 28                            
+                  isTrain: True                          	[default: None]
+               latent_dim: 100                           
+                       lr: 0.0002                        
+         max_dataset_size: inf                           
+                    n_cpu: 8                             
+                 n_epochs: 200                           
+                     name: experiment_name               
+              num_threads: 4                             
+                    phase: train                         
+          sample_interval: 400                           
+                   suffix:                               
+----------------- End -------------------
